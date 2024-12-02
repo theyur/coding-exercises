@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "DynamicArray.csproj", "{AD8C7050-7349-474D-B4DE-579204DEC493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8C7050-7349-474D-B4DE-579204DEC493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8C7050-7349-474D-B4DE-579204DEC493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8C7050-7349-474D-B4DE-579204DEC493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8C7050-7349-474D-B4DE-579204DEC493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
